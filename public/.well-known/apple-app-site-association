@@ -1,0 +1,27 @@
+{
+   "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+         {
+            "appIDs":[
+               "8423PGB965.com.noniusguest.app",
+               "579FRNR49H.com.nonius.qa"
+            ],
+            "paths":[
+               "/redirect/redeem/SDMwMDAy*",
+               "/redirect/redeem/SDMwMDAw*"
+            ]
+         },
+         {
+            "appIDs":[
+               "8423PGB965.com.xtourmaker.GuestU"
+            ],
+            "paths":[
+               "/redirect/redeem/TkNNMjExNg*"
+            ]
+         }
+      ]
+   }
+}
